@@ -1,6 +1,58 @@
 # --------------
 # DO NOT MODIFY!
 # --------------
+- id: 1819-NMD3
+  type: MODULE
+  lang: nl
+  color: primary
+  title:
+    short: NMD3
+    long : New Media Design III
+  academic-year: 2018-2019
+  authors: # First is owner
+    - OPR
+    - SA
+    - EVR
+    - BM
+  programme:
+    institute : AHS
+    department: PBAGDM
+    major     : MMP
+
+- id: 1819-NMD2
+  type: MODULE
+  lang: nl
+  color: primary
+  title:
+    short: NMD3
+    long : New Media Design II
+  academic-year: 2018-2019
+  authors: # First is owner
+    - OPR
+    - SA
+    - EVR
+    - BM
+  programme:
+    institute : AHS
+    department: PBAGDM
+    major     : MMP
+
+- id: 1819-BAP-CMO
+  type: MODULE
+  lang: nl
+  color: primary
+  title:
+    short: BAPCMO
+    long : Bachelorproef CMO
+  academic-year: 2018-2019
+  authors: # First is owner
+    - SA
+    - BM
+  programme:
+    institute : AHS
+    department: PBAGDM
+    major     : MMP
+
 - id: 1819-CMSDEVELOPMENT
   type: MODULE
   lang: nl
