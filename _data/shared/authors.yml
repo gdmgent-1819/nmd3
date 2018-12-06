@@ -1,6 +1,10 @@
-# --------------
-# DO NOT MODIFY!
-# --------------
+# # # # # # # # # #
+# DO NOT MODIFY!  #
+# # # # # # # # # #
+
+# Domeingroep Web & New Media
+# ---------------------------
+
 - id: AAD
   name:
     full : Ann Audenaert
@@ -25,10 +29,23 @@
     en: lecturer
     nl: docent
 
+- id: BT
+  name:
+    full : Barbara Tombeur
+    short: B. Tombeur
+  image  : bt.jpg
+  contact:
+    email  : barbara.tombeur@arteveldehs.be
+    website: http://www.gdm.gent
+  title:
+    en: lecturer
+    nl: docent
+
 - id: DDW
   name:
     full : Dieter De Weirdt
     short: D. De Weirdt
+  image  : ddw.jpg
   contact:
     email  : dieter.deweirdt@arteveldehs.be
     website: http://www.gdm.gent
@@ -64,6 +81,7 @@
   name:
     full : Jonas Pottie
     short: J. Pottie
+  image  : jpt.jpg
   contact:
     email  : jonas.pottie@arteveldehs.be
     website: http://www.gdm.gent
@@ -78,17 +96,6 @@
   image  : kr.jpg
   contact:
     email  : kristof.raes@arteveldehs.be
-    website: http://www.gdm.gent
-  title:
-    en: lecturer
-    nl: docent
-
-- id: LMCF
-  name:
-    full : Liliana Maria Carrillo Flórez
-    short: L. Carrillo
-  contact:
-    email  : lilianamaria.carrilloflorez@arteveldehs.be
     website: http://www.gdm.gent
   title:
     en: lecturer
@@ -122,9 +129,60 @@
   name:
     full : Stijn Anseel
     short: S. Anseel
-  image  : sta.jpg
+  image  : sa.jpg
   contact:
     email  : stijn.anseel@arteveldehs.be
+    website: http://www.gdm.gent
+  title:
+    en: lecturer
+    nl: docent
+
+# Domeingroep Graphic Design
+# --------------------------
+
+- id: CV
+  name:
+    full : Carine Vermeulen
+    short: C. Vermeulen
+  image  : cv.jpg
+  contact:
+    email  : carine.vermeulen@arteveldehs.be
+    website: http://www.gdm.gent
+  title:
+    en: lecturer
+    nl: docent
+
+- id: JB
+  name:
+    full : Jeroen Braeckman
+    short: J. Braeckman
+  image  : jb.jpg
+  contact:
+    email  : jeroen.braeckman@arteveldehs.be
+    website: http://www.gdm.gent
+  title:
+    en: lecturer
+    nl: docent
+
+- id: JDL
+  name:
+    full : Johan De Loof
+    short: J. De Loof
+  image  : jdl.jpg
+  contact:
+    email  : johan.deloof@arteveldehs.be
+    website: http://www.gdm.gent
+  title:
+    en: lecturer
+    nl: docent
+
+- id: JT
+  name:
+    full : Joris Thys
+    short: J. Thys
+  image  : jt.jpg
+  contact:
+    email  : joris.thys@arteveldehs.be
     website: http://www.gdm.gent
   title:
     en: lecturer
