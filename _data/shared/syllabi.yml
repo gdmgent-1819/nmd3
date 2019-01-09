@@ -89,17 +89,33 @@
   lang: nl
   color: primary
   title:
-    short: CS
-    long : Computer Science
+    short: CSSE
+    long : Computer Science & Software Engineering I
   academic-year: 2018-2019
   authors: # First is owner
     - KR
-    - AAD
     - OPR
   programme:
     institute : AHS
     department: PBAGDM
     major     : MMP
+    minor     : NMD
+
+- id: 1819-CSSE2
+  type: MODULE
+  lang: nl
+  color: primary
+  title:
+    short: CSSE2
+    long : Computer Science & Software Engineering II
+  academic-year: 2018-2019
+  authors: # First is owner
+    - OPR
+  programme:
+    institute : AHS
+    department: PBAGDM
+    major     : MMP
+    minor     : NMD
 
 - id: 1819-MOBILEDEVELOPMENT
   type: MODULE
@@ -164,7 +180,6 @@
   academic-year: 2018-2019
   authors: # First is owner
     - PDP
-    - AAD
     - DDW
     - EVR
     - FR
@@ -178,8 +193,8 @@
   lang: nl
   color: primary
   title:
-    short: UI & UX
-    long : User Interface & User eXperience
+    short: UI/UX
+    long : User Interface & User Experience
   academic-year: 2018-2019
   authors: # First is owner
     - OPR
@@ -207,6 +222,8 @@
   programme:
     institute : AHS
     department: PBAGDM
+    major     : MMP
+    minor     : NMD
 
 - id: 1819-XR
   type: MODULE
@@ -218,7 +235,8 @@
   academic-year: 2018-2019
   authors: # First is owner
     - OPR
-    - PDP
   programme:
     institute : AHS
     department: PBAGDM
+    major     : MMP
+    minor     : NMD
