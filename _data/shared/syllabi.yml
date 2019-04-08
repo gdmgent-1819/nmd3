@@ -240,3 +240,19 @@
     department: PBAGDM
     major     : MMP
     minor     : NMD
+
+- id: ICT
+  type: MODULE
+  lang: nl
+  color: primary
+  title:
+    short: ICT
+    long : ICT
+  academic-year: 2018-2019
+  authors: # First is owner
+    - KR
+    - OPR
+    - PDP
+  programme:
+    institute : AHS
+    department: PBAGDM
